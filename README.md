@@ -1,5 +1,5 @@
 # Reading List Tracker
-I created a reading list tracker on Excel in order to identify the categories of books that I read the most and the amount of money I spent by using functions such as COUNTIF and SUMIF to create visual analyzations of my findings. I also wanted to keep track of the reading status of my books so I used the Data Validation tool to create a drop down menu. 
+I created a reading list tracker on Excel in order to identify the categories of books that I read the most and the amount of books that are mine by using functions such as COUNTIF and SUMIF to create visual analyzations of my findings. I also wanted to keep track of the reading status of my books so I used the Data Validation tool to create a drop down menu. 
 
 There are four different sheets that cover my findings:
 * Bookshelf
