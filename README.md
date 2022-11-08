@@ -19,6 +19,8 @@ This sheet has five columns that include data that I will use as a foundation.
 * Pages
 * Series
 
+![image](https://github.com/bmmontz/Bookshelf/blob/218e461d2bdaef7220415d9d084dc955eb33f640/Bookshelf.png?raw=true)
+
 ### Owners
 The Owners sheet includes the same data as Bookshelf with an additional column, *Picked By*. This column has two different variables, each being the person who selected the book. I wanted to track who owns the most books on the bookshelf. 
 
