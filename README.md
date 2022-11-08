@@ -25,10 +25,17 @@ This sheet has five columns that include data that I will use as a foundation.
 The Owners sheet includes the same data as Bookshelf with an additional column, *Picked By*. This column has two different variables, each being the person who selected the book. I wanted to track who owns the most books on the bookshelf. 
 
 I used the COUNTIF function to find the total amount of books that were picked by 'Bianca' and 'Jorge'.
+
+![image](https://github.com/bmmontz/Bookshelf/blob/77657a966979fd132aaa74396999038005ffa258/CountIf%20table.png?raw=true)
+
 I then createdd a pie chart to easily identify who has picked the most books.  
+
+![image](https://github.com/bmmontz/Bookshelf/blob/77657a966979fd132aaa74396999038005ffa258/Owned%20Pie%20Chart.png?raw=true)
 
 ### Categories
  The Categories sheet used data from the Category and Pages columns to find which category is favored on the shelf with the SUMIF function. 
+ 
+ 
  
  ### Status
  This sheet includes a new column, *Status*. In this column I created a drop down list where I am able to select between *Read, Started,* and *Unread*. Since this is my personal bookshelf I wanted to be able to return to Tracker and adjust the status over time. 
